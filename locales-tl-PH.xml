@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locale xmlns="http://purl.org/net/xbiblio/csl" version="1.0" xml:lang="tl-PH">
-  <info>
+  <!-- Mainly referred to the following for translations:
+        1. Komisyon sa Wikang Filipino, Manwal sa Masinop na Pagsulat, pp. 116-132
+        2. Komisyon ng Wikang Filipino, Diksiyonaryo ng Wikang Filipino, https://www.kwfdiksiyonaryo.ph/
+        3. Sentro ng Wikang Filipino, Glosaring English-Filipino, https://sentrofilipino.upd.edu.ph/glosaring-english-filipino/
+  -->
+	<info>
     <translator>
       <name>leen p</name>
     </translator>
